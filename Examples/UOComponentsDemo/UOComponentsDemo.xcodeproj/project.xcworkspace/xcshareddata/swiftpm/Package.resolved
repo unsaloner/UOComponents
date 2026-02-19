@@ -1,0 +1,24 @@
+{
+  "originHash" : "714c2bf8fc5f1dc63f64330c19f3f8d1167aafaf8e019406efa35fa203c775c5",
+  "pins" : [
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
+    },
+    {
+      "identity" : "uocomponents",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/unsaloner/UOComponents",
+      "state" : {
+        "branch" : "main",
+        "revision" : "546f7d739814e64b6b12e9f5c7af12ec9604aa8b"
+      }
+    }
+  ],
+  "version" : 3
+}
