@@ -14,7 +14,7 @@ A Swift library that provides reusable UI components and ready-made screen kits 
 1. **File → Add Package Dependencies...**
 2. Paste the package URL in the search field:
    ```
-   https://github.com/unsaloner/UOComponentsBuilderPattern
+   https://github.com/unsaloner/UOComponents
    ```
 3. Set **Dependency Rule** to *Up to Next Major Version* starting from `1.0.0` (or your preferred version).
 4. Click **Add Package**, select your target, then **Add Package**.
@@ -23,7 +23,7 @@ A Swift library that provides reusable UI components and ready-made screen kits 
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/unsaloner/UOComponentsBuilderPattern", from: "1.0.0")
+    .package(url: "https://github.com/unsaloner/UOComponents", from: "1.0.0")
 ],
 targets: [
     .target(
